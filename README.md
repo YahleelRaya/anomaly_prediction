@@ -1,4 +1,4 @@
-Market Anomaly Predictor
+# Market Anomaly Predictor
 
 Detects market stress/anomalies (e.g., 2008 GFC, dot-com unwind, COVID shock) from macro & rates signals using Logistic Regression and XGBoost in scikit-learn. Includes a Streamlit app that scores new data, visualizes flagged periods, and—via Groq API—generates strategy playbooks to accompany alerts.
 
